@@ -1,3 +1,11 @@
+/*
+        *****
+        *   *
+        *   *
+        *   *
+        *****
+ */
+
 import java.util.*;
 class hollowRectangel{
     public static void main(String args[]){
