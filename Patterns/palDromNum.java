@@ -21,7 +21,6 @@ public class palDromNum {
                         if (j==n) {
                             count=1;
                         }
-                       
                     }
                     else{                        
                         System.out.print(++count);
